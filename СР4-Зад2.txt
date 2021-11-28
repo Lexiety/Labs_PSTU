@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    float g;
+    float f;
+    cin >> g;
+    f = g / 7.481;
+    cout << f << endl;
+    return 0;
+}
